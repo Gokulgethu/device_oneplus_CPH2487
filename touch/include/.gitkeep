@@ -1,0 +1,2 @@
+# Keep this directory in git: OPLUS_LINEAGE_TOUCH_HAL_INCLUDE_DIR
+# (device/oneplus/device_oneplus_CPH2487/touch/include) points here from BoardConfig.mk.
